@@ -23,3 +23,10 @@ table, th, td {
   background-color: black;
   color: white;
 }
+.vid{
+    margin: 100px;
+}
+.vid h3{
+    text-align: left;
+    align-items: center;
+}
