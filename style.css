@@ -3,7 +3,8 @@
     margin: 10px;
 }
 table, th, td {
-    border: 1px solid rgb(28, 9, 59);
+    border: 1px solid rgb(106, 40, 212);
+    box-shadow: currentColor;
     border-collapse: collapse;
     font-family: sans-serif;
   }
