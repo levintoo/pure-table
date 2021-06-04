@@ -3,10 +3,11 @@
     margin: 10px;
 }
 table, th, td {
-    border: 1px solid black;
+    border: 1px solid rgb(28, 9, 59);
     border-collapse: collapse;
+    font-family: sans-serif;
   }
   th, td {
     padding: 5px;
-    text-align: left;    
+    text-align: left;   
   }
